@@ -1,3 +1,4 @@
 # Image_processing
 Study notes and reflections学习笔记与思考
-学习了图像处理这一门课之后，按照按照自己的硕士期间的研究方向(计算光学成像)去把一些经典的方法去系统性整理。后续会在我的github里上传并分享感悟
+After taking the course on image processing, I organized some classic methods systematically according to my master's research direction (computational optical imaging). I’ll upload it to my GitHub later and share my thoughts.
+#You can ask me anything about my study notes, I'm happy to chat with everyone.
